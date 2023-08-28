@@ -27,6 +27,18 @@
 در این بخش، نحوه‌ی اجرای مجموعه‌ی Docker Compose را مشاهده می‌کنید. این مجموعه شامل دو نمونه از برنامه‌ی وب، یک سرور Nginx، و یک پایگاه داده می‌باشد.
 ![photo_2023-08-28_22-02-33](https://github.com/bardia-mhd/SE_lab_6/assets/22092861/b2476c65-2bf3-484c-bc82-3eb40a249d64)
 
+### نمایش خروجی دستورات
+- `docker ps`
+
+![photo_2023-08-28_22-16-58](https://github.com/bardia-mhd/SE_lab_6/assets/22092861/08931d6b-3313-4f14-9fb8-f0a7d73e07ed)![photo_2023-08-28_22-17-27](https://github.com/bardia-mhd/SE_lab_6/assets/22092861/b9e85d8a-b975-4a48-9572-719f54c9b3be)
+
+
+- `docker image ls`
+
+![photo_2023-08-28_22-17-27](https://github.com/bardia-mhd/SE_lab_6/assets/22092861/88b89bf2-187e-4fef-b27e-d90afd359e9c)
+
+
+
 ### بررسی اجرا در Postman
 
 این تصویر نمایانگر یک درخواست GET به برنامه‌ی (webapp1) است که روی پورت 8000 اجرا شده و بدون داده است.
